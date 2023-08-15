@@ -1,6 +1,6 @@
 # ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph
 
-ARKGraph is a efficient library for all-range k-nearest-neighbor graph (KNNG) indexing, which can process range KGraph queries in almost real-time. For more details please refer to our paper: [ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph](https://github.com/rutgers-db/ARKGraph).
+ARKGraph is a efficient library for all-range k-nearest-neighbor graph (KNNG) indexing, which can process range KGraph queries in almost real-time. For more details please refer to our paper: [ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph](https://dl.acm.org/doi/10.14778/3603581.3603601).
 
 
 ## Usage
